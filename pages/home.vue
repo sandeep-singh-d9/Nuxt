@@ -1,7 +1,7 @@
 <template>
     <div>
 
-        <headerTop></headerTop>
+        <!-- <headerTop></headerTop> -->
 
         <!-- slider image and text -->
             <div class="slider_area ">
